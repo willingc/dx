@@ -1,3 +1,4 @@
+fastjsonschema
 jsonschema
 jupyter
 nteract_on_jupyter
